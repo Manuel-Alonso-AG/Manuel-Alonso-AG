@@ -1,11 +1,35 @@
-# 👋Hola, me presento: @Manuel-Alonso-AG. 
-Soy un desarrollador que trabaja principalmente con **Flutter**, **Node.js** y **React**. Actualmente, estoy realizando proyectos personales además de estudiar.
-También se usar base de datos como: **MySQL** y **MongoDB**.
+<h1 align="center">👋Hola, me llamo Manuel Alonso</h1>
+<p align="center">Soy un desarrollador web y desktop que trabaja principalmente en el frontend; también trabajo con el backend y el uso de base de datos.</p>
 
-- 👀 Estoy interesado en el desarrollo de aplicaciones tanto web como desktop, como en el frontend y en el backend.
-- ⭐ Actualmente estoy aprendiendo Python; sin embargo, en este momento no lo estoy tomando en serio. 
+<h2 align="center">Skills</h2>
 
-Soy nuevo en este tipo de plataforma y mi objetivo principal es tener un portafolio de mis proyectos.
+<table align="center">
+  <tr>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Base de Datos</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Flutter</li>
+        <li>HTML, CSS, JS</li>
+        <li>React</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Node.js</li>
+        <li>PHP</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
->Contacto: manoloalonsog2@gmail.com
-
+---
