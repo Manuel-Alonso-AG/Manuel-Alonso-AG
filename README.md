@@ -24,8 +24,7 @@
       <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS"><br>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"><br>
-      <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"><br>
