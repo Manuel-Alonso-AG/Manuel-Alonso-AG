@@ -20,6 +20,7 @@
   <tr style="border-bottom: 1px solid #ddd;">
     <td align="center" style="padding: 10px;">
       <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white" alt="Flutter"><br>
+      <img src="https://img.shields.io/badge/-React-58c4dc?logo=react&logoColor=white" alt="React"><br>
       <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML"><br>
       <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS"><br>
     </td>
