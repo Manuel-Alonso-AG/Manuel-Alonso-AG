@@ -16,6 +16,7 @@
     <th style="padding: 10px;">Frontend</th>
     <th style="padding: 10px;">Backend</th>
     <th style="padding: 10px;">Bases de Datos</th>
+    <th style="padding: 10px;">Otros <br/>menos desarrollados</th>
   </tr>
   <tr style="border-bottom: 1px solid #ddd;">
     <td align="center" style="padding: 10px;">
@@ -29,6 +30,10 @@
     <td align="center" style="padding: 10px;">
       <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"><br>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/-PHP-4479A1?logo=php&logoColor=white" alt="PHP"><br>
+      <img src="https://img.shields.io/badge/-Java-E34F26?logo=openjdk&logoColor=white" alt="Java">
     </td>
   </tr>
 </table>
